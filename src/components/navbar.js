@@ -13,7 +13,7 @@ const Navbar = () => {
               href="/"
             >
               <span className="text-gradient bg-gradient-to-r from-pink to-purple font-semibold">
-                HOLO
+                PONPES AL-MIFTAHUL HUDA
               </span>
             </a>
             <div className="hidden md:block">
@@ -55,7 +55,7 @@ const Navbar = () => {
                     className="transition-all duration-500ms ease-in-out hover:ease-in-out bg-transparent mt-5 py-2.5 px-4 text-base font-medium text-center text-black rounded-lg border border-purple hover:text-white border-black  hover:bg-purple"
                   >
                     Call Us Now
-                  </a>
+                  </a> 
                 </div>
               </div>
             </div>
