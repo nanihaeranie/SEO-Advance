@@ -2,7 +2,7 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 
 // Assets
-import HeroImage from "../../images/holographic-background-1.webp"
+import HeroImage from "../../images/ponpes.jpg"
 import Image1 from "../../images/3D-liquid-abstract-1.webp"
 import Image2 from "../../images/3D-liquid-abstract.webp"
 import Image3 from "../../images/3D-liquid-abstract-3.webp"
@@ -10,6 +10,9 @@ import Image3 from "../../images/3D-liquid-abstract-3.webp"
 const FeatureSection = () => {
   return (
     <div className="max-w-7xl mx-auto">
+
+      {/* === BAGIAN YANG KAMU MINTA DIKOMENTARIN === */}
+      {/*
       <Fade bottom cascade>
         <div className="mt-10 flex flex-row justify-space xxs:flex-col xs:flex-col sm:flex-row content-center justify-center align-middle text-center">
           <div className="w-1/3 bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
@@ -21,16 +24,20 @@ const FeatureSection = () => {
             <h3 className="text-white text-2xl">Accessibility</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">100</h4>
           </div>
+
           <div className="w-1/3 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
             <h3 className="text-white text-2xl">Best Practices</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">100</h4>
           </div>
+
           <div className="lg:rounded-xl lg:w-1/3 lg:bg-dp bg-dp p-8 rounded-xl m-5 xxs:w-full xxs:bg-dp xxs:rounded-xl xs:w-full xs:bg-dp xs:rounded-xl sm:hidden md:hidden lg:block">
             <h3 className="text-white text-2xl">SEO</h3>
             <h4 className="mt-10 text-white opacity-70 text-xl">100</h4>
           </div>
-        </div>
+        </div> 
       </Fade>
+      */}
+      {/* === AKHIR BAGIAN YANG DIKOMENTARIN === */}
 
       <div className="max-w-7xl mx-auto lg:px-8 md:px-3">
         <div className="mx-auto max-w-7xl px-4 sm:mt-10 sm:px-6 md:mt-10 lg:mt-10 lg:px-0 xl:mt-10 flex flex-col lg:flex-row gap-3 lg:flex-justify">
@@ -78,9 +85,9 @@ const FeatureSection = () => {
                   >
                     <path
                       stroke="currentColor"
-                      stroke-linecap="round"
-                      stroke-linejoin="round"
-                      stroke-width="2"
+                      strokeLinecap="round"
+                      strokeLinejoin="round"
+                      strokeWidth="2"
                       d="M1 5h12m0 0L9 1m4 4L9 9"
                     />
                   </svg>
@@ -122,14 +129,7 @@ const FeatureSection = () => {
             <p className="mt-10 text-white opacity-70">
               Lorem Ipsum is simply dummy text of the printing and typesetting
               industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and scrambled it to make a type specimen book. It has
-              survived not only five centuries, but also the leap into
-              electronic typesetting, remaining essentially unchanged. It was
-              popularised in the 1960s with the release of Letraset sheets
-              containing Lorem Ipsum passages, and more recently with desktop
-              publishing software like Aldus PageMaker including versions of
-              Lorem Ipsum.
+              ever since the 1500s...
             </p>
           </div>
         </div>
@@ -143,15 +143,7 @@ const FeatureSection = () => {
           A React based framework
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book. It has survived not only
-          five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum.
+          Lorem Ipsum is simply dummy text...
         </p>
       </div>
 
@@ -163,15 +155,7 @@ const FeatureSection = () => {
           Discover and connect
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lorem Ipsum is simply dummy text of the printing and typesetting
-          industry. Lorem Ipsum has been the industry's standard dummy text ever
-          since the 1500s, when an unknown printer took a galley of type and
-          scrambled it to make a type specimen book. It has survived not only
-          five centuries, but also the leap into electronic typesetting,
-          remaining essentially unchanged. It was popularised in the 1960s with
-          the release of Letraset sheets containing Lorem Ipsum passages, and
-          more recently with desktop publishing software like Aldus PageMaker
-          including versions of Lorem Ipsum.
+          Lorem Ipsum is simply dummy text...
         </p>
         <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div className="rounded-md">
@@ -220,6 +204,7 @@ const FeatureSection = () => {
           </div>
         </div>
       </Fade>
+
       {/* 
       <div className="mt-10 px-8">
         <h2 className="text-black text-4xl font-semibold text-gradient bg-gradient-to-r from-pink to-purple">
