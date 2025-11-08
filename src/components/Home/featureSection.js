@@ -50,18 +50,17 @@ const FeatureSection = () => {
           </div>
 
           <div className="lg:w-1/2 sm:text-center lg:text-right flex flex-col justify-center">
-            <h2 className="text-black text-4xl font-semibold">PERFORMANCE</h2>
-            <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl text-gradient bg-gradient-to-r from-pink to-purple">
-              Time to unlock new speeds
+            <h2 className="text-black text-4xl font-semibold"></h2>
+            <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-5xl text-gradient bg-gradient-to-r from-pink to-purple">
+              AL MIFTAHUL HUDA
             </h3>
 
-            <p className="mt-3 text-base text-black-70 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-auto lg:mr-0">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s.
+            <p className="mt-3 text-base text-black-60 sm:mt-4 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-auto lg:mr-0">
+              
             </p>
 
             <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-end">
+          {/* 
               <div className="rounded-md">
                 <a
                   href="tel:#"
@@ -69,11 +68,11 @@ const FeatureSection = () => {
                 >
                   Call Us Now
                 </a>
-              </div>
+              </div>*/}
               <div className="mt-3 sm:mt-0 sm:ml-3">
                 <a
                   href="/gallery"
-                  className="transition-all duration-500ms ease-in-out hover:ease-in-out w-full flex items-center justify-center px-8 py-3 border border-purple text-base font-medium rounded-md text-black hover:text-white bg-transparent hover:bg-purple md:py-3 md:text-lg md:px-10"
+                  className="transition-all duration-500ms ease-in-out hover:ease-in-out w-full flex items-center justify-center px-8 py-3 text-base font-medium rounded-md text-center bg-purple text-white hover:text-black border border-purple hover:bg-transparent md:text-lg md:px-10"
                 >
                   View Gallery
                   <svg
@@ -102,21 +101,21 @@ const FeatureSection = () => {
         <div className="mt-10 flex flex-row justify-space xxs:flex-col xs:flex-col sm:flex-row">
           <div className="w-2/6 bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-2/6">
             <span className="text-black font-semibold font-montserrat text-4xl">
-              TECH STACK
+              Al Miftahul Huda
             </span>
             <div className="mt-5">
               <div>
-                <p className="text-black text-2xl">Gatsby 5+</p>
-                <p className="text-black opacity-50 text-sm">SSG and more...</p>
+                <p className="text-black text-2xl">Akhlak</p>
+                <p className="text-black opacity-50 text-sm">Santun dalam perilaku</p>
               </div>
               <div className="mt-5">
-                <p className="text-black text-2xl">React 18+</p>
-                <p className="text-black opacity-50 text-sm">Create more...</p>
+                <p className="text-black text-2xl">Disiplin</p>
+                <p className="text-black opacity-50 text-sm">Tertib dalam tindakan</p>
               </div>
               <div className="mt-5">
-                <p className="text-black text-2xl">Tailwind CSS 3+</p>
+                <p className="text-black text-2xl">Iman</p>
                 <p className="text-black opacity-50 text-sm">
-                  A utility-first CSS
+                  Kuat dalam keyakinan
                 </p>
               </div>
             </div>
@@ -124,12 +123,11 @@ const FeatureSection = () => {
 
           <div className="w-4/6 bg-dp p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-4/6">
             <h2 className="text-white text-4xl">
-              Start building amazing web experiences
+              Menanam Ilmu, Menumbuhkan Akhlak
             </h2>
             <p className="mt-10 text-white opacity-70">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s...
+              Tempat di mana ilmu dan iman berjalan berdampingan.
+Al Miftahul Huda menjadi ruang bagi setiap santri untuk belajar, tumbuh, dan berkontribusi dengan akhlak mulia.
             </p>
           </div>
         </div>
@@ -137,25 +135,25 @@ const FeatureSection = () => {
 
       <div className="mt-10 px-8">
         <h2 className="text-black text-4xl font-semibold opacity-70">
-          OPEN SOURCE
+          {/* OPEN SOURCE */}
         </h2>
         <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl text-gradient bg-gradient-to-r from-pink to-purple">
-          A React based framework
+          {/* A React based framework */}
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lorem Ipsum is simply dummy text...
+          {/* Lorem Ipsum is simply dummy text... */}
         </p>
       </div>
 
       <div className="mt-10 px-8">
         <h2 className="text-black text-4xl font-semibold opacity-70">
-          INTEGRATIONS
+          {/* INTEGRATIONS */}
         </h2>
         <h3 className="text-black text-6xl font-bold xxs:text-2xl xs:text-3xl sm:text-5xl lg:text-6xl text-gradient bg-gradient-to-r from-pink to-purple">
-          Discover and connect
+          {/* Discover and connect */}
         </h3>
         <p className="text-black opacity-70 font-normal mt-3 text-xs xxs:text-xs xs:text-xs sm:text-xs md:text-sm lg:text-lg">
-          Lorem Ipsum is simply dummy text...
+          {/* Lorem Ipsum is simply dummy text... */}
         </p>
         <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
           <div className="rounded-md">
@@ -163,7 +161,7 @@ const FeatureSection = () => {
               href="/contact/"
               className="transition-all duration-500ms ease-in-out hover:ease-in-out w-full flex items-center justify-center px-8 py-3 text-base font-medium rounded-md text-center bg-purple text-white hover:text-black border border-purple hover:bg-transparent md:text-lg md:px-10"
             >
-              Send Enquiry
+              Kirim Pertanyaan
             </a>
           </div>
         </div>
