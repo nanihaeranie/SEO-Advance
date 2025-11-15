@@ -19,13 +19,13 @@ const Footer = () => {
               </p>
               <p className="text-white text-lg font-bold mt-20">
                 <span className="text-black font-montserrat font-semibold mt-20">
-                  &copy; {new Date().getFullYear()}. All Rights Reserved.
+                  {/* &copy; {new Date().getFullYear()}. All Rights Reserved. */}
                 </span>
               </p>
               <div className="text-black font-bold block-inline">
                 <p>
                   <a className="text-black font-bold block-inline" href="/">
-                    Holo
+                    {/* Holo */}
                   </a>
 
                   <a
@@ -33,7 +33,7 @@ const Footer = () => {
                     target="_blank"
                     href="https://travislord.xyz"
                   >
-                    By TL
+                    {/* By TL */}
                   </a>
                   <a
                     href="https://github.com/lilxyzz/holo-theme"
@@ -41,8 +41,8 @@ const Footer = () => {
                   >
                     <img
                       className="w-5 h-5 mt-1"
-                      src="/img/Github-Logo.png"
-                      alt="GitHub"
+                      src="/img/download (20).png"
+                      alt="Al miftahul huda"
                     ></img>
                   </a>
                 </p>

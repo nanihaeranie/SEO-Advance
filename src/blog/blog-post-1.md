@@ -1,16 +1,13 @@
 ---
 templateKey: blog-post
-title: Lorem Ipsum Is Simply 
+title: Al Miftahul Huda
 date: 2024-03-30T15:39:18.616Z
 featuredimage: /img/Holographic-Liquid-1.jpg
 categories:
   - blog
 tags:
   - blog
-description: Lorem Ipsum is simply dummy text of the printing and typesetting
-  industry. Lorem Ipsum has been the industry's standard dummy text ever since
-  the 1500s, when an unknown printer took a galley of type and scrambled it to
-  make a type specimen book.
+description: Al Miftahul Huda merupakan lembaga pendidikan yang berfokus pada pembinaan akhlak, ilmu, dan kedisiplinan. Sejak awal berdirinya, Al Miftahul Huda terus berupaya memberikan lingkungan belajar yang nyaman, terarah, dan berlandaskan nilai-nilai keislaman.
 ---
 ## Lorem Ipsum 
 

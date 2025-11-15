@@ -3,9 +3,9 @@ import Fade from "react-reveal/Fade"
 
 // Assets
 import HeroImage from "../../images/ponpes.jpg"
-import Image1 from "../../images/3D-liquid-abstract-1.webp"
-import Image2 from "../../images/3D-liquid-abstract.webp"
-import Image3 from "../../images/3D-liquid-abstract-3.webp"
+import Image1 from "../../images/fotohuda5.jpg"
+import Image2 from "../../images/fotohuda4.jpg"
+import Image3 from "../../images/fotohuda6.jpg"
 
 const FeatureSection = () => {
   return (
@@ -74,7 +74,7 @@ const FeatureSection = () => {
                   href="/gallery"
                   className="transition-all duration-500ms ease-in-out hover:ease-in-out w-full flex items-center justify-center px-8 py-3 text-base font-medium rounded-md text-center bg-purple text-white hover:text-black border border-purple hover:bg-transparent md:text-lg md:px-10"
                 >
-                  View Gallery
+                  Gallery
                   <svg
                     className="w-3.5 h-3.5 ms-2 rtl:rotate-180"
                     aria-hidden="true"
@@ -181,7 +181,7 @@ Al Miftahul Huda menjadi ruang bagi setiap santri untuk belajar, tumbuh, dan ber
         </div>
       </Fade>
 
-      <Fade bottom cascade>
+      {/* <Fade bottom cascade>
         <div className="mt-10 flex flex-row justify-space xxs:flex-col xs:flex-col sm:flex-row content-center justify-center align-middle text-center">
           <div className="w-1/3 bg-gradient-to-r from-pink to-purple p-8 rounded-xl m-5 xxs:w-full xs:w-full sm:w-1/3">
             <h3 className="text-black text-2xl">v1.0.0</h3>
@@ -201,7 +201,7 @@ Al Miftahul Huda menjadi ruang bagi setiap santri untuk belajar, tumbuh, dan ber
             </h4>
           </div>
         </div>
-      </Fade>
+      </Fade> */}
 
       {/* 
       <div className="mt-10 px-8">
