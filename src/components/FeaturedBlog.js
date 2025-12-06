@@ -19,7 +19,7 @@ const FeaturedBlog = () => {
             <p className="text-lg  text-black opacity-60 mb-6">
               Tempat ini menjadi ruang bagi masyarakat untuk berkumpul, belajar, dan saling menguatkan. Selalu di adakanya pengajian mingguan untuk ibu-ibu, bapak-bapak dan remaja.
             </p>
-            <a
+            {/* <a
               href="/blog/blog-post"
               className="transition-all duration-500ms ease-in-out hover:ease-in-out inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-black hover:text-white rounded-lg border border-purple  hover:bg-purple"
             >
@@ -39,7 +39,7 @@ const FeaturedBlog = () => {
                   d="M1 5h12m0 0L9 1m4 4L9 9"
                 />
               </svg>
-            </a>
+            </a> */}
           </div>
           <div className="grid md:grid-cols-2 gap-8">
             <div className="blog-hover bg-white rounded-lg p-8 md:p-12">
@@ -49,7 +49,7 @@ const FeaturedBlog = () => {
               <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
                 Al Miftahul Huda adalah tempat yang menjadi wadah bagi masyarakat untuk berkumpul, belajar, dan saling menguatkan. Di sini, suasananya hangat dan sederhana.
               </p>
-              <a
+              {/* <a
                 href="/blog/blog-post-1"
                 className="transition-all duration-500ms ease-in-out hover:ease-in-out inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-black hover:text-white  rounded-lg border border-purple  hover:bg-purple"
               >
@@ -69,7 +69,7 @@ const FeaturedBlog = () => {
                     d="M1 5h12m0 0L9 1m4 4L9 9"
                   />
                 </svg>
-              </a>
+              </a> */}
             </div>
             <div className="blog-hover bg-white rounded-lg p-8 md:p-12">
               <h2 className="text-gray-900 text-3xl font-simibold mb-2">
@@ -78,7 +78,7 @@ const FeaturedBlog = () => {
               <p className="text-lg font-normal text-gray-500 dark:text-gray-400 mb-4">
                 Al Miftahul Huda ruang belajar, ruang tumbuh, dan ruang berproses. Melalui berbagai program pendidikan dan kegiatan keagamaan, kami membangun lingkungan yang mendukung perkembangan karakter dan kecerdasan generasi muda.
               </p>
-              <a
+              {/* <a
                 href="/blog/blog-post-2"
                 className="transition-all duration-500ms ease-in-out hover:ease-in-out inline-flex justify-center items-center py-2.5 px-5 text-base font-medium text-center text-black hover:text-white  rounded-lg border border-purple  hover:bg-purple"
               >
@@ -98,7 +98,7 @@ const FeaturedBlog = () => {
                     d="M1 5h12m0 0L9 1m4 4L9 9"
                   />
                 </svg>
-              </a>
+              </a> */}
             </div>
           </div>
         </div>

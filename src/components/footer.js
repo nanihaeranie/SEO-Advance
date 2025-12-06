@@ -26,19 +26,19 @@ const Footer = () => {
                 <p>
                   <a className="text-black font-bold block-inline" href="/">
                     {/* Holo */}
-                  </a>
+                  {/* </a>
 
                   <a
                     className="text-black font-semibold ml-1"
                     target="_blank"
                     href="https://travislord.xyz"
-                  >
+                  > */}
                     {/* By TL */}
-                  </a>
+                  {/* </a>
                   <a
                     href="https://github.com/lilxyzz/holo-theme"
                     target="_blank"
-                  >
+                  > */}
                     <img
                       className="w-5 h-5 mt-1"
                       src="/img/download (20).png"

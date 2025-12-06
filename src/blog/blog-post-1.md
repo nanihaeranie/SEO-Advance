@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: Al Miftahul Huda
 date: 2024-03-30T15:39:18.616Z
-featuredimage: /img/Holographic-Liquid-1.jpg
+featuredimage: /img/guru.jpg
 categories:
   - blog
 tags:
   - blog
-description: Al Miftahul Huda merupakan lembaga pendidikan yang berfokus pada pembinaan akhlak, ilmu, dan kedisiplinan. Sejak awal berdirinya, Al Miftahul Huda terus berupaya memberikan lingkungan belajar yang nyaman, terarah, dan berlandaskan nilai-nilai keislaman.
+description: 25 november 2025
 ---
 ## Lorem Ipsum 
 
