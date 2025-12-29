@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Al Miftahul Huda`,
-    description: `Holo is a visually striking and highly customizable open source theme built on the powerful Gatsby framework and integrated with the versatile Decap CMS`,
-    siteUrl: "https://holo-theme.netlify.app/",
-    author: `Travis Lord <hi@travislord.xyz>`,
+    description: `Al-Miftahul huda yang artinya kunci petunjuk`,
+    siteUrl: "https://almiftahulhuda.web.id/",
+    author: `Mahasiswa`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -79,7 +79,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Holo - Gatsby Starter Theme`,
+        // name: `Holo - Gatsby Starter Theme`,
         short_name: `Huda`,
         start_url: `/`,
         background_color: `#ebebfa`,
