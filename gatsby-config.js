@@ -6,7 +6,7 @@ module.exports = {
     author: `Mahasiswa`,
   },
   plugins: [
-    // `gatsby-plugin-image`,
+    `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -85,7 +85,7 @@ module.exports = {
         background_color: `#ebebfa`,
         theme_color: `#ebebfa`,
         display: `standalone`,
-        icon: `src/images/huda.png`, // This path is relative to the root of the site.
+        // icon: `src/images/huda.png`, // This path is relative to the root of the site.
       },
     },
     {
