@@ -12,7 +12,7 @@ const IndexPage = () => (
   <div className="h-auto w-screen">
     <Layout>
       <Seo
-        
+        title="Al-Miftahul Huda"
         description="Al-Miftahul Huda."
       ></Seo>
       <Header></Header>

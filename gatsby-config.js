@@ -6,7 +6,7 @@ module.exports = {
     author: `Mahasiswa`,
   },
   plugins: [
-    `gatsby-plugin-image`,
+    // `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -79,7 +79,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        // name: `Holo - Gatsby Starter Theme`,
+        name: `Al Miftahul Huda`,
         short_name: `Huda`,
         start_url: `/`,
         background_color: `#ebebfa`,
