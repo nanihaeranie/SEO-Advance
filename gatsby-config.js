@@ -4,6 +4,13 @@ module.exports = {
     description: `Al-Miftahul huda yang artinya kunci petunjuk`,
     siteUrl: "https://almiftahulhuda.web.id/",
     author: `Mahasiswa`,
+    keywords: [
+      "Al-Miftahul Huda",
+      "Pondok Pesantren Al-Miftahul Huda",
+      "Ponpes Al-Miftahul Huda",
+      "Madrasah",
+      
+    ],
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -85,7 +92,7 @@ module.exports = {
         background_color: `#ebebfa`,
         theme_color: `#ebebfa`,
         display: `standalone`,
-        icon: `src/images/logoo.png`, // This path is relative to the root of the site.
+        icon: `src/images/huda.png`, // This path is relative to the root of the site.
       },
     },
     {

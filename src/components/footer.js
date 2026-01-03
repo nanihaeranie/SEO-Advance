@@ -39,11 +39,11 @@ const Footer = () => {
                     href="https://github.com/lilxyzz/holo-theme"
                     target="_blank"
                   > */}
-                    <img
+                    {/* <img
                       className="w-5 h-5 mt-1"
                       src="/img/download (20).png"
                       alt="Al miftahul huda"
-                    ></img>
+                    ></img> */}
                   </a>
                 </p>
               </div>
