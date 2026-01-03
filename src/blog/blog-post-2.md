@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Al Miftahul Huda
 date: 2024-03-30T15:02:06.069Z
-featuredimage: /img/kueguru.jpg
+featuredimage: /img/hari guru.jpg
 categories:
   - blog
 tags:
