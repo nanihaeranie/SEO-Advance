@@ -34,16 +34,16 @@ const Footer = () => {
                     href="https://travislord.xyz"
                   > */}
                     {/* By TL */}
-                  {/* </a>
+                  </a>
                   <a
-                    href="https://github.com/lilxyzz/holo-theme"
+                    href="https://almiftahulhuda@gmail.com"
                     target="_blank"
-                  > */}
-                    {/* <img
+                  >
+                    <img
                       className="w-5 h-5 mt-1"
-                      src="/img/download (20).png"
+                      src="/img/Gmail_Logo___SVG___Real_Company___Alphabet__Letter_M_Logo-removebg-preview.png"
                       alt="Al miftahul huda"
-                    ></img> */}
+                    ></img>
                   </a>
                 </p>
               </div>

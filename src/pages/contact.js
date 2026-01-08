@@ -84,7 +84,7 @@ const Contact = () => {
                       </p>
                       <p className="text-neutral-500 mb-2">
                         <a href="mailto:hello@holo.com?subject=Contact Holo for help.">
-                          Almiftahulhuda@gmail.com
+                          almiftahulhuda@gmail.com
                         </a>
                       </p>
                     </div>
