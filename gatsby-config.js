@@ -61,17 +61,17 @@ module.exports = {
               ],
             },
           },
-          {
-            resolve: `gatsby-remark-images`,
-            options: {
-              maxWidth: 1360,
-              withWebp: false,
-              showCaptions: false,
-              quality: 100,
-              disableBgImageOnAlpha: false,
-              wrapperStyle: `margin: 7vw 0;`,
-            },
-          },
+          // {
+          //   resolve: `gatsby-remark-images`,
+          //   options: {
+          //     maxWidth: 1360,
+          //     withWebp: false,
+          //     showCaptions: false,
+          //     quality: 100,
+          //     disableBgImageOnAlpha: false,
+          //     wrapperStyle: `margin: 7vw 0;`,
+          //   },
+          // },
           {
             resolve: `gatsby-remark-responsive-iframe`,
             options: {
