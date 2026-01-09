@@ -6,7 +6,6 @@ import Seo from "../components/seo"
 import { graphql } from "gatsby"
 
 const Blog = ({ data }) => {
-  console.log("data", data)
   let HeaderPost = data?.allMarkdownRemark?.edges[0]
   let otherPosts = data?.allMarkdownRemark?.edges.slice(1)
 
@@ -15,7 +14,7 @@ const Blog = ({ data }) => {
       <Seo
         title="Blog"
         description="Holo is a visually striking and highly customizable open source theme built on the powerful Gatsby framework and integrated with the versatile Decap CMS"
-      ></Seo>
+      />
       <BlogHeader post={HeaderPost} />
       <BlogsContainer data={otherPosts} />
     </Layout>
@@ -40,11 +39,7 @@ export const WorkPageQuery = graphql`
             date(formatString: "DD:MM:YYYY hh:mm a")
             title
             description
-            featuredimage {
-              childImageSharp {
-                gatsbyImageData
-              }
-            }
+            featuredimage
           }
         }
       }
