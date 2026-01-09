@@ -6,7 +6,7 @@ date: 2024-03-30T18:18:16.118Z
 categories:
   - Gatsby
 description: >-
-  Merayakan hari guru
+  Merayakan hari guru bersama
 ---
 <!-- ## Lorem Ipsum 
 
