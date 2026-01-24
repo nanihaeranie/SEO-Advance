@@ -183,11 +183,11 @@ const Contact = () => {
                 <div className="sm:ml-5 xxs:ml-0 xxs:mt-2 sm:mt-0">
                   <label>
                     {" "}
-                    {/* <Input
+                    <Input
                       placeholder="Your Phone"
                       type="phone"
                       name="phone"
-                    ></Input> */}
+                    ></Input>
                   </label>
                 </div>
               </div>

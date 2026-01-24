@@ -2,12 +2,12 @@
 templateKey: blog-post
 title: Al Miftahul Huda
 date: 2024-03-30T15:02:06.069Z
-featuredimage: /img/hari guru.jpg
+featuredimage: /img/guru.jpg
 categories:
   - blog
 tags:
   - blog
-description: 25 November 2025
+description: 
 ---
 <!-- ## Lorem Ipsum 
 

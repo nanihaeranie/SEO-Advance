@@ -8,7 +8,7 @@ module.exports = {
       "Al-Miftahul Huda",
       "Pondok Pesantren Al-Miftahul Huda",
       "Ponpes Al-Miftahul Huda",
-      "Madrasah",
+      "Miftahul huda",
       
     ],
   },
